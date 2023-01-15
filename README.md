@@ -8,9 +8,9 @@ Kelas   :TI.22.C1
 
 Dosen   :Agung Nugroho S.Kom.,M.Kom
 ```
-Link Youtube : [klik%disini]()
+Link Youtube : [klik disini]()
 
-File pdf : [klik%disini]()
+File pdf : [klik disini]()
 ![image1.png](sreenshot/1a.jpg)
 
 # main.py
